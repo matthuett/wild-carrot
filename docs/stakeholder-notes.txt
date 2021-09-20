@@ -1,0 +1,15 @@
+Notes on the organisation of the festival/party:
+
+1. Festival
+- The festival is a recurring event
+- Every festival is defined by a start and an end date and a name
+e.g. "Wild Carrot 2021" - 2021-07-01 to 2021-07-04
+
+2. Ticket
+- Every person attending must have a ticket for a festival
+- A ticket is valid only for the time of the festival
+- A ticket must have a unique id
+- There are 3 types of tickets - early bird (reduced price) - normal - staff (free)
+- The type of the ticket should be changeable (e.g. a person has purchased a normal ticket and becomes staff)
+- A ticket must be personalized. There cannot be a ticket without a person assigned to it.
+- A ticket must have a price, issue datetime and an indication whether it has already been registered (at the festival site) or not. 
